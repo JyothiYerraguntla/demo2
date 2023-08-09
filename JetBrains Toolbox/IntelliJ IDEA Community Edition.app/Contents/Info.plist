@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist SYSTEM "roles.dtd">
+<plist version="1.0">
+  
+  <dict>
+        
+    <key>CFBundleDevelopmentRegion</key>
+        
+    <string>English</string>
+        
+    <key>CFBundleExecutable</key>
+        
+    <string>jetbrains-toolbox-launcher</string>
+        
+    <key>CFBundleGetInfoString</key>
+        
+    <string/>
+        
+    
+    
+    
+    
+    <key>CFBundleInfoDictionaryVersion</key>
+        
+    <string>6.0</string>
+        
+    
+    
+    
+    
+    <key>CFBundlePackageType</key>
+        
+    <string>APPL</string>
+        
+    
+    
+    <key>CFBundleSignature</key>
+        
+    <string>????</string>
+        
+    
+    
+    <key>NSHumanReadableCopyright</key>
+        
+    <string>Copyright (c) JetBrains s.r.o.</string>
+        
+    <key>NSHighResolutionCapable</key>
+        
+    <true/>
+        
+    <key>NSUIElement</key>
+        
+    <false/>
+        
+    <key>LSUIElement</key>
+        
+    <true/>
+        
+    
+    
+    <key>LSApplicationCategoryType</key>
+        
+    <string>public.app-category.developer-tools</string>
+    
+    <key>CFBundleName</key>
+    <string>IntelliJ IDEA Community Edition 2022.1.3</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.jetbrains.toolbox.linkapp.pcom.jetbrains.toolbox__ntelli_ommunity_dition_2022_1_3</string>
+    <key>CFBundleVersion</key>
+    <string>2022.1.3</string>
+    <key>CFBundleLongVersionString</key>
+    <string>2022.1.3</string>
+    <key>CFBundleShortVersionString</key>
+    <string>2022.1.3</string>
+    <key>CFBundleIconFile</key>
+    <string>icon.icns</string>
+    <key>JetBrainsToolboxApp</key>
+    <string>/Users/jyothiy/Library/Application Support/JetBrains/Toolbox/apps/IDEA-C/ch-0/221.5921.22/IntelliJ IDEA CE.app</string>
+  </dict>
+  
+</plist>
